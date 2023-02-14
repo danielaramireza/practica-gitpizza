@@ -1,5 +1,3 @@
-<!-- Instrucciones para preparar una Pizza -->
-
 <em>**¿Cómo preparar una pizza de Agaricus bisporus?**</em>
 
 [Imagen de Pizza](https://unareceta.com/wp-content/uploads/2014/05/pizza-de-champin%CC%83ones.jpg)
@@ -28,4 +26,6 @@
 7. Introduce la pizza de champiñones al horno y cocina durante 20 minutos
 
 Ahora disfruta de esta **RICA** Pizza
+
+
 
